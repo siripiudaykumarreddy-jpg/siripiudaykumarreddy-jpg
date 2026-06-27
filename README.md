@@ -1,13 +1,13 @@
 # Hi 👋, I'm Uday Kumar Reddy
 
-💻 Java Full Stack Developer
+💻 **Java Full Stack Developer**
 
 ## 🚀 About Me
 
-* 🌱 Currently learning Spring Boot, React, and AWS
+* 🌱 Currently learning **Spring Boot, React, and AWS**
 * 🔭 Building full-stack web applications
-* 💡 Interested in Backend Development and System Design
-* 🎯 Goal: Become a Software Engineer
+* 💡 Interested in **Backend Development** and **System Design**
+* 🎯 Goal: Become a **Software Engineer**
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +24,7 @@
 
 ### 🛒 SHOPEASE
 
-Full-stack e-commerce platform using Spring Boot, React, MySQL, JWT, and Razorpay.
+Full-stack e-commerce platform using **Spring Boot, React, MySQL, JWT, and Razorpay**.
 
 ### 📋 Task Manager
 
