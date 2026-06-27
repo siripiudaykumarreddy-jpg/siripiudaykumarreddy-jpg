@@ -4,21 +4,21 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Spring Boot, React, and AWS**
-* 🔭 Building full-stack web applications
-* 💡 Interested in **Backend Development** and **System Design**
-* 🎯 Goal: Become a **Software Engineer**
+- 🌱 Currently learning **Spring Boot, React, and AWS**
+- 🔭 Building full-stack web applications
+- 💡 Interested in **Backend Development** and **System Design**
+- 🎯 Goal: Become a **Software Engineer**
 
 ## 🛠️ Tech Stack
 
-* Java
-* Spring Boot
-* React
-* MySQL
-* HTML
-* CSS
-* JavaScript
-* Git & GitHub
+- Java
+- Spring Boot
+- React
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
 ## 🔥 Projects
 
@@ -36,14 +36,20 @@ Personal portfolio with Spring Boot backend integration.
 
 ## 🌱 Currently Learning
 
-* Spring Security
-* JWT Authentication
-* AWS
+- Spring Security
+- JWT Authentication
+- AWS
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/udayreddy83483/
+- LinkedIn: [Uday Kumar Reddy](https://www.linkedin.com/in/udayreddy83483/)
 
 ## ⚡ Fun Fact
 
 I enjoy building real-world projects and learning new technologies.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siripiudaykumarreddy-jpg&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siripiudaykumarreddy-jpg&layout=compact&theme=tokyonight)
